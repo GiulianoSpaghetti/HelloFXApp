@@ -8,8 +8,3 @@ C'è un bug nella java virtual machine di oracle che non permette l'esecuzione d
 # Donazioni
 
 http://numerone.altervista.org/donazioni.php
-
-# Bibliografia
-file:///home/numerone/Scaricati/javafx-18.0.1-javadoc/javafx.base/module-summary.html
-https://www.tabnine.com/code/java/methods/javafx.scene.layout.VBox/getChildren
-https://www.amazon.it/dp/B09R713XTP/ref=pe_39158771_640030741_TE_M1DP
